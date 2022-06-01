@@ -1,17 +1,10 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
-		"type": "PC"
+		"name": "SPLine",
+		"favicon": "https://x19.fp.ps.netease.com/file/61401bd135a74b852989318firHYb5go03"
 	},
 	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
-		"type": "PC"
-	},
-	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
-		"type": "PC"
+		"name": "梦幻世界",
+		"favicon": "https://x19.fp.ps.netease.com/file/61dbd082f42564549fb48a20w5r3bzmC03"
 	}
 ]
