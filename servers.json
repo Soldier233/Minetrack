@@ -1,10 +1,12 @@
 [
 	{
 		"name": "SPLine",
-		"favicon": "https://x19.fp.ps.netease.com/file/61401bd135a74b852989318firHYb5go03"
+		"id": "4650116043119703739",
+		"type": "NETEASE"
 	},
 	{
 		"name": "梦幻世界",
-		"favicon": "https://x19.fp.ps.netease.com/file/61dbd082f42564549fb48a20w5r3bzmC03"
+		"id": "4652665280419819698",
+		"type": "NETEASE"
 	}
 ]
